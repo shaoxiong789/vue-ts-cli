@@ -1,4 +1,4 @@
-# tenant-admin
+# vue-tsx-cli
 
 ## Project setup
 ```
